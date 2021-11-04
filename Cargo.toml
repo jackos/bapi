@@ -1,0 +1,7 @@
+[package]
+name = "dapi"
+version = "0.1.0"
+edition = "2021"
+description = "Creates API docuemntation and static website based on intergration tests in the tests folder"
+license = "MIT"
+[dependencies]
